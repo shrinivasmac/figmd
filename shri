@@ -1,1 +1,33 @@
 this is my project
+shrinivasmach777@gmail.com..............git gmail
+Shri@500.........git pass
+shrinivasmac..........git usrename
+
+
+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
+
+git config --global user.email "shrinivasmach777@gmail.com"
+git config --global user.name "shrinivasmac"
+
+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
+
+
+go to account setting >>got to developer setting >personal access token>give any name >do tick on repo
+
+then execute git remote -v
+
+then execute 
+git remote set-url origin give patha og remote repo like below
+
+git remote set-url origin https://github.com/shrinivasmac/ppp.git
+
+then add token like below (add token after http:// and add @ before git hub and execute)
+
+
+git remote set-url origin https://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
+@github.com/shrinivasmac/ppp.git
+
+execute this file then execute push command 
+
+
+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
